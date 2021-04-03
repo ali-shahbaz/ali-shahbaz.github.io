@@ -20,4 +20,4 @@ Left MBA degree after two semesters (because I wasn't feeling fit for the busine
 During my degree program I used to teach in a technical college to support my studies, after completing my degree I moved to <a href="https://en.wikipedia.org/wiki/Lahore" target="_blank">*Lahore*</a> and started my career as teacher in *APTECH*.<br>
 Started my software development career in March 2012 as .NET developer, before starting this job I had basic HTML, CSS, JavaScript, SQL and ASP.NET, C#, Windows Forms development skills.
 
-**For further professional history, see my [CV](/CV) section.**
+**For further professional history, see my [CV](/cv/) section.**
