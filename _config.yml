@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Ali Shahbaz"
   avatar           : "profile.jpg"
-  bio              : "Full-stack sofware engineer \n\n Angular, AngularJS, TypeScript, C#, ASP.NET MVC, .NET Core Developer"
+  bio              : "Full-stack sofware engineer
+                      
+                      Angular, AngularJS, JavaScript, TypeScript, C#, ASP.NET MVC, .NET Core Developer"
   location         : "Lahore, PK"
   employer         :
   pubmed           :
