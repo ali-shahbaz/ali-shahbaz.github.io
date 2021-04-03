@@ -21,3 +21,9 @@ During my degree program I used to teach in a technical college to support my st
 Started my software development career in March 2012 as .NET developer, before starting this job I had basic HTML, CSS, JavaScript, SQL and ASP.NET, C#, Windows Forms development skills.
 
 **For further professional history, see my [CV](/cv/) section.**
+
+Skills I have
+---
+ASP.NET MVC, WebAPI, C#, .NET Core, Node.js, AdonisJs, SignalR
+AngularJS, Angular, JavaScript, TypeScript, jQuery, HTML, CSS, Bootstrap
+XML, JSON, SQL Server, MySQL, NoSQL DBMS - RavenDB, MongoDB. 
