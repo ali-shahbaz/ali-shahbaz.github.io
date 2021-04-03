@@ -24,6 +24,6 @@ Started my software development career in March 2012 as .NET developer, before s
 
 Skills I have
 ---
-ASP.NET MVC, WebAPI, C#, .NET Core, Node.js, AdonisJs, SignalR
-AngularJS, Angular, JavaScript, TypeScript, jQuery, HTML, CSS, Bootstrap
+ASP.NET MVC, WebAPI, C#, .NET Core, Node.js, AdonisJs, SignalR<br>
+AngularJS, Angular, JavaScript, TypeScript, jQuery, HTML, CSS, Bootstrap<br>
 XML, JSON, SQL Server, MySQL, NoSQL DBMS - RavenDB, MongoDB. 
