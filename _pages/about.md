@@ -26,4 +26,4 @@ Expertise I have
 ---
 `ASP.NET MVC`, `WebAPI`, `C#`, `.NET Core`, `Node.js`, `AdonisJs`, `SignalR`<br>
 `AngularJS`, `Angular`, `JavaScript`, `TypeScript`, `jQuery`, `HTML`, `CSS`, `Bootstrap`<br>
-`XML`, `JSON`, `SQL Server`, `MySQL`, NoSQL DBMS - `RavenDB`, `MongoDB` 
+`XML`, `JSON`, `SQL Server`, `MySQL`, `RavenDB`, `MongoDB` 
