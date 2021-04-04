@@ -22,7 +22,7 @@ Started my **software development** career in March 2012 as .NET developer, befo
 
 **For further professional history, see my [CV](/cv/) section.**
 
-Skills I have
+Expertise I have
 ---
 ASP.NET MVC, WebAPI, C#, .NET Core, Node.js, AdonisJs, SignalR<br>
 AngularJS, Angular, JavaScript, TypeScript, jQuery, HTML, CSS, Bootstrap<br>
